@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Silk")(type "KiCad")(uri "${KIPRJMOD}/Silk.pretty")(options "")(descr ""))
+)
